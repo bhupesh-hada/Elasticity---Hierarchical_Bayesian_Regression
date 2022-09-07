@@ -1,1 +1,1 @@
-# Elasticity_Modeling-Hierarchical-Bayesian-Regression
+# Elasticity-Hierarchical-Bayesian-Regression
